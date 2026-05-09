@@ -1,4 +1,4 @@
-[EminImanov_TelebeKarti.pdf](https://github.com/user-attachments/files/27543094/EminImanov_TelebeKarti.pdf)# Liver Lesion Segmentation using nnU-Net
+# Liver Lesion Segmentation using nnU-Net
 
 This project focuses on liver and liver lesion segmentation from CT images using deep learning-based medical image segmentation methods. The notebook was developed on Kaggle and uses the nnU-Net framework for dataset preparation, preprocessing, model training, prediction, and evaluation.
 
