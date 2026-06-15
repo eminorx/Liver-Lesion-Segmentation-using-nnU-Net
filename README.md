@@ -22,12 +22,11 @@ The dataset is not included in this repository due to size and licensing restric
 
 ## Tools and Libraries
 
-- Python
+- Python : PyTorch
 - nnU-Net v2
 - NumPy
 - nibabel
 - Matplotlib
-- tqdm
 - Kaggle Notebook
 
 ## Workflow
@@ -65,6 +64,15 @@ The project achieved the following Dice scores on the validation setup:
 |---|---:|
 | Liver | 0.929 |
 | Liver Lesion | 0.697 |
+
+### Case-Level Volumetric Dice (20-case held-out set)
+
+Evaluated volumetrically per case
+
+| Target | Mean Dice |
+|--------|----------:|
+| Liver | 0.9476 |
+| Lesion | 0.6241 |
 
 These results show that the model performs strongly on liver segmentation and provides a solid baseline for liver lesion segmentation, which is generally a more challenging task because lesions are smaller, more variable, and harder to distinguish from surrounding tissue.
 
