@@ -86,7 +86,6 @@ The notebook includes visualizations for:
 
 This repository contains the Kaggle notebook version of the project. The dataset and trained model checkpoints are not included in the repository due to file size and dataset restrictions.
 
-This project is part of my graduation project, and I am currently preparing it for scientific publication. I have also applied to the TÜBİTAK 2209-A program with this project.
 
 ## Author
 
