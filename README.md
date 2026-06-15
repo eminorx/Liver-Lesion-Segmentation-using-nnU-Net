@@ -84,7 +84,7 @@ The notebook includes visualizations for:
 
 ## Notes
 
-This repository contains the Kaggle notebook version of the project. The dataset and trained model checkpoints are not included in the repository due to file size and dataset restrictions.
+This repository contains the Kaggle notebook version of the project. The training process can be reviewed in the training_log.txt file located within the archive.
 
 
 ## Author
